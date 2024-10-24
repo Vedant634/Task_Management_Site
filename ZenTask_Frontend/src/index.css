@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background: linear-gradient(0deg, rgba(119,108,133,1) 0%, rgba(59,20,110,1) 100%) !important;
+}
+
+
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
